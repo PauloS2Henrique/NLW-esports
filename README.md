@@ -5,7 +5,7 @@
 ![.github-NW-eSports](./github/.github-NW-eSports.png)
 
 [Clique aqui para acessar]
-🔎(https://paulos2henrique.github.io/NLW-esportes/)
+🔎(https://paulos2henrique.github.io/NLW-esports/)
 
 
 Projeto construido no evento Next level week da Rocketseat.
