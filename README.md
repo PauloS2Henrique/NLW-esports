@@ -2,7 +2,7 @@
 
 > Trinha explorer
 
-![.github-NW-eSports](./github/.github-NW-eSports.png)
+![novo-projeto](./github/novo-projeto.png)
 
 [Clique aqui para acessar]
 🔎(https://paulos2henrique.github.io/NLW-esports/)

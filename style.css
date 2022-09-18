@@ -9,11 +9,11 @@ ul {
 }
 
 body {
-  background-image: url(./assets/bg.jpg);
+  background-image: url(./assets/Image.Gamer.jpg);
   background-position: top center;
   background-size: 100% auto;
   background-repeat: no-repeat;
-  background-color: #121214;
+  background-color: #01071df4;
 }
 
 body * {
